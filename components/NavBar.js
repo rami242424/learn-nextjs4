@@ -20,6 +20,7 @@ export default function NavBar(){
                         router.pathname === "/about" ? styles.active : "",
                     ].join(" ")}
                 >
+                    
                     About
                 </a>
             </Link>
